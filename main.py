@@ -63,7 +63,7 @@ def main():
 
         case "1":
             images = getImagesFromURL()
-            downloadImages(images, "test2")
+            downloadImages(images, "test")
 
         case 2:
             images = getImagesFromComicsName()
